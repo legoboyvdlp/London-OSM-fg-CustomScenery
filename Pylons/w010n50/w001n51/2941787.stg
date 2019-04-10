@@ -1,0 +1,65 @@
+# pylons_w010n50_w001n51_2941787
+# do not edit below this line
+# Last Written Fri Mar 29 15:49:12 2019
+#
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -0.17981 51.42029 12.94 117.174
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -0.18175 51.42266 11.43 114.005
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -0.18328 51.42516 13.46 112.883
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -0.18436 51.42662 13.25 120.295
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -0.18614 51.42817 12.18 136.451
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -0.18923 51.42941 13.88 147.241
+OBJECT_BUILDING_MESH_DETAILED w010n50_w001n51_2941787cables00011.ac -0.18452 51.42485 12.66 90
+OBJECT_SHARED Models/Power/windturbine.xml -0.08491 51.48000 3.67 0
+OBJECT_SHARED Models/Power/windturbine_LAG18_18m.xml -0.09950 51.49286 8.61 0
+OBJECT_SHARED Models/Power/windturbine_LAG18_18m.xml -0.09935 51.49283 8.97 0
+OBJECT_SHARED Models/Power/windturbine_LAG18_18m.xml -0.09966 51.49288 8.19 0
+OBJECT_SHARED Models/Power/windturbine_LAG18_18m.xml -0.06429 51.45600 33.00 0
+OBJECT_SHARED Models/Power/windturbine_LAG18_18m.xml -0.06453 51.45646 31.23 0
+OBJECT_SHARED Models/Power/windturbine_LAG18_18m.xml -0.06445 51.45631 31.83 0
+OBJECT_SHARED Models/Power/windturbine_LAG18_18m.xml -0.06433 51.45608 32.69 0
+OBJECT_SHARED Models/Power/windturbine_LAG18_18m.xml -0.06448 51.45639 31.52 0
+OBJECT_SHARED Models/Power/windturbine_LAG18_18m.xml -0.06436 51.45615 32.47 0
+OBJECT_SHARED Models/Power/windturbine_LAG18_18m.xml -0.06425 51.45593 33.30 0
+OBJECT_SHARED Models/Power/windturbine_LAG18_18m.xml -0.06441 51.45622 32.17 0
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.00135 51.48524 -386.84 450
+OBJECT_SHARED Models/Industrial/TPS_Drujba2_chimney.ac -0.00113 51.48532 -12.04 450
+OBJECT_SHARED Models/Industrial/TPS_Drujba2_chimney.ac -0.00085 51.48476 -0.96 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.00060 51.48482 -379.61 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.08512 51.48720 -388.85 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.08138 51.47208 -385.74 450
+OBJECT_SHARED Models/Industrial/TPS_Drujba2_chimney.ac -0.04626 51.48542 -1.07 450
+OBJECT_SHARED Models/Industrial/TPS_Drujba2_chimney.ac -0.01515 51.49309 -6.85 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.14469 51.48254 -390.39 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.14469 51.48254 -390.39 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.14469 51.48254 -390.39 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.14469 51.48254 -390.39 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.14469 51.48254 -390.39 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.14469 51.48254 -390.39 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.14398 51.48245 -390.42 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.14398 51.48245 -390.42 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.14398 51.48245 -390.42 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.14398 51.48245 -390.42 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.14398 51.48245 -390.42 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.14398 51.48245 -390.42 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.14520 51.48114 -387.41 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.14520 51.48114 -387.41 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.14520 51.48114 -387.41 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.14520 51.48114 -387.41 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.14520 51.48114 -387.41 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.14520 51.48114 -387.41 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.14448 51.48105 -387.09 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.14448 51.48105 -387.09 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.14448 51.48105 -387.09 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.14448 51.48105 -387.09 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.14448 51.48105 -387.09 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.14448 51.48105 -387.09 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.07715 51.47697 -460.97 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.07715 51.47697 -460.97 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.07715 51.47697 -460.97 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.07614 51.47712 -461.23 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.07614 51.47712 -461.23 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.07614 51.47712 -461.23 450
+OBJECT_SHARED Models/Industrial/TPS_Drujba2_chimney.ac -0.08169 51.47493 -64.70 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -0.08169 51.47493 -446.70 450
+OBJECT_SHARED Models/Industrial/TPS_Drujba2_chimney.ac -0.05684 51.48406 -15.74 450
+# END pylons_w010n50_w001n51_2941787
